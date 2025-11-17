@@ -247,8 +247,12 @@ class AutonomousAgent:
             return {k: self._make_serializable(v) for k, v in obj.items()}
         elif isinstance(obj, list):
             return [self._make_serializable(item) for item in obj]
-        else:
+        elif isinstance(obj, bool):
             return obj
+        elif isinstance(obj, (int, float, str, type(None))):
+            return obj
+        else:
+            return str(obj)
     
     def get_status(self) -> Dict[str, Any]:
         """Get current agent status"""
