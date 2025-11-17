@@ -50,6 +50,10 @@ generated_content/
 output/
 temp/
 
+# Results and temporary data
+results/*.json
+!results/.gitkeep
+
 # OS
 .DS_Store
 Thumbs.db
