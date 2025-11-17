@@ -1,0 +1,283 @@
+{
+  "cycle_number": 1,
+  "timestamp": "2025-11-17T16:32:21.508774",
+  "steps": {
+    "trend_analysis": {
+      "total_trends": 9,
+      "top_trends": [
+        {
+          "topic": "AI tools",
+          "volume": 100000,
+          "source": "google",
+          "growth_rate": "+150%",
+          "timestamp": "2025-11-17T16:32:21.508894",
+          "score": 90.0,
+          "viability": "high"
+        },
+        {
+          "topic": "viral content",
+          "volume": 75000,
+          "source": "google",
+          "growth_rate": "+80%",
+          "timestamp": "2025-11-17T16:32:21.508895",
+          "score": 74.0,
+          "viability": "high"
+        },
+        {
+          "topic": "content automation",
+          "volume": 60000,
+          "source": "google",
+          "growth_rate": "+200%",
+          "timestamp": "2025-11-17T16:32:21.508897",
+          "score": 74.0,
+          "viability": "high"
+        },
+        {
+          "topic": "#AI",
+          "volume": 125000,
+          "source": "twitter",
+          "sentiment": "positive",
+          "timestamp": "2025-11-17T16:32:21.508853",
+          "score": 70.0,
+          "viability": "medium"
+        },
+        {
+          "topic": "social media marketing",
+          "volume": 90000,
+          "source": "google",
+          "growth_rate": "+45%",
+          "timestamp": "2025-11-17T16:32:21.508896",
+          "score": 69.5,
+          "viability": "medium"
+        }
+      ]
+    },
+    "niche_identification": {
+      "total_niches": 3,
+      "top_niches": [
+        {
+          "niche": "Technology & AI",
+          "trend_count": 4,
+          "average_volume": 95750,
+          "average_trend_score": 73.3,
+          "competition_level": 70,
+          "monetization_potential": 85,
+          "profitability_score": 72.64,
+          "top_trends": [
+            {
+              "topic": "AI tools",
+              "volume": 100000,
+              "source": "google",
+              "growth_rate": "+150%",
+              "timestamp": "2025-11-17T16:32:21.508894",
+              "score": 90.0,
+              "viability": "high"
+            },
+            {
+              "topic": "content automation",
+              "volume": 60000,
+              "source": "google",
+              "growth_rate": "+200%",
+              "timestamp": "2025-11-17T16:32:21.508897",
+              "score": 74.0,
+              "viability": "high"
+            },
+            {
+              "topic": "#AI",
+              "volume": 125000,
+              "source": "twitter",
+              "sentiment": "positive",
+              "timestamp": "2025-11-17T16:32:21.508853",
+              "score": 70.0,
+              "viability": "medium"
+            }
+          ],
+          "recommended_action": "Recommended - Good opportunity for growth",
+          "timestamp": "2025-11-17T16:32:21.509368"
+        },
+        {
+          "niche": "Digital Marketing",
+          "trend_count": 2,
+          "average_volume": 72000,
+          "average_trend_score": 60.55,
+          "competition_level": 85,
+          "monetization_potential": 90,
+          "profitability_score": 62.56,
+          "top_trends": [
+            {
+              "topic": "social media marketing",
+              "volume": 90000,
+              "source": "google",
+              "growth_rate": "+45%",
+              "timestamp": "2025-11-17T16:32:21.508896",
+              "score": 69.5,
+              "viability": "medium"
+            },
+            {
+              "topic": "#DigitalMarketing",
+              "volume": 54000,
+              "source": "twitter",
+              "sentiment": "positive",
+              "timestamp": "2025-11-17T16:32:21.508856",
+              "score": 51.6,
+              "viability": "medium"
+            }
+          ],
+          "recommended_action": "Recommended - Good opportunity for growth",
+          "timestamp": "2025-11-17T16:32:21.509419"
+        },
+        {
+          "niche": "Content Creation",
+          "trend_count": 2,
+          "average_volume": 70000,
+          "average_trend_score": 65.0,
+          "competition_level": 80,
+          "monetization_potential": 75,
+          "profitability_score": 60.0,
+          "top_trends": [
+            {
+              "topic": "viral content",
+              "volume": 75000,
+              "source": "google",
+              "growth_rate": "+80%",
+              "timestamp": "2025-11-17T16:32:21.508895",
+              "score": 74.0,
+              "viability": "high"
+            },
+            {
+              "topic": "#ContentCreation",
+              "volume": 65000,
+              "source": "twitter",
+              "sentiment": "positive",
+              "timestamp": "2025-11-17T16:32:21.508856",
+              "score": 56.0,
+              "viability": "medium"
+            }
+          ],
+          "recommended_action": "Recommended - Good opportunity for growth",
+          "timestamp": "2025-11-17T16:32:21.509461"
+        }
+      ]
+    },
+    "content_generation": {
+      "total_generated": 6,
+      "high_score_content": 3
+    },
+    "strategy_optimization": {
+      "performance_metrics": {
+        "total_posts": 6,
+        "average_engagement_rate": 0.0656,
+        "average_viral_score": 55.0,
+        "follower_growth_rate": 0.0285,
+        "best_engagement_rate": 0.0944,
+        "consistency_score": 100.0
+      },
+      "recommendations": [
+        "\u2705 Great engagement rate (6.56%)! Keep up the good work.",
+        "\u23f0 Optimal posting times: 16:00. Schedule more content during these hours.",
+        "\ud83c\udfa8 Focus on text content: This type is performing best for your audience."
+      ],
+      "optimized_schedule": {
+        "posts_per_day": 3,
+        "best_hours": [
+          "16:00"
+        ],
+        "best_days": [
+          "Monday"
+        ],
+        "recommended_schedule": [
+          {
+            "day": "Monday",
+            "priority": "high",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          },
+          {
+            "day": "Tuesday",
+            "priority": "normal",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          },
+          {
+            "day": "Wednesday",
+            "priority": "normal",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          },
+          {
+            "day": "Thursday",
+            "priority": "normal",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          },
+          {
+            "day": "Friday",
+            "priority": "normal",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          },
+          {
+            "day": "Saturday",
+            "priority": "normal",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          },
+          {
+            "day": "Sunday",
+            "priority": "normal",
+            "posts": [
+              {
+                "time": "16:00",
+                "content_type": "text"
+              }
+            ]
+          }
+        ],
+        "content_mix": {
+          "text": 0.19999999999999998,
+          "image": 0.4,
+          "video": 0.30000000000000004,
+          "carousel": 0.1
+        }
+      },
+      "monetization_status": {
+        "ready_for_monetization": "True",
+        "readiness_score": 100,
+        "follower_count": 11217,
+        "follower_requirement": 10000,
+        "engagement_rate": 0.0656,
+        "engagement_requirement": 0.05,
+        "recommendations": [
+          "\u2705 Ready for brand partnerships and sponsorships",
+          "\ud83d\udcb0 Consider affiliate marketing opportunities",
+          "\ud83c\udfaf Explore platform monetization programs",
+          "\ud83d\udcca Create exclusive content for monetization"
+        ]
+      }
+    }
+  }
+}
